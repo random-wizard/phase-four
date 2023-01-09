@@ -1348,7 +1348,7 @@ defender deflects the knock back attempt.
 Knock Out
 ---------
 
-The opponent is dealt a blow that may knock them unconcious. If the
+The opponent is dealt a blow that may knock them unconscious. If the
 attacker's Strength Rank Value is greater than the defender's Toughness
 Rank Value, then the defender must roll 1d20 on the Master Table using
 the Rank Value of the defender's Toughness attribute. A result of white
