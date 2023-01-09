@@ -469,7 +469,7 @@ Attribute Boost
 This power is a temporary boost to any one primary attribute of the
 character's choice (chosen at the time this power is acquired). Once
 each hour of game time the character can automatically boost the chosen
-attributes's Rank Value by an amount equal to the Rank Value of this
+attribute Rank Value by an amount equal to the Rank Value of this
 power. The duration of affected primary attribute is determined by the
 Rank Value of the power using the "Attribute Boost" table. At the end of
 this time the affected primary attribute's Rank Value is reduced to
