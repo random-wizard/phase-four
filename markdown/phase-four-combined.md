@@ -648,7 +648,7 @@ the "Fast Attack" table.
 
 FAST ATTACK
 
-| Value | Sectors/Move |
+| Value | Attacks/Turn |
 |-------|--------------|
 | 1     | 2            |
 | 10    | 3            |
