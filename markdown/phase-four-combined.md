@@ -1077,10 +1077,10 @@ A character with this power may attempt to read the mind of any
 character with a Ego Rank Value lower than the character's Rank Value. A
 character with this power is automatically aware when someone attempts
 to read the character's mind. The character may attempt to block the
-other telepath. Each turn, the dueling metalists must each make a result
-check against the master table. If the defender matches the result color
-or better than the attacker's roll, then the defender successfully wards
-off any mind reading attempts for that turn.
+other telepath. Each turn, the duelling mentalists must each make a
+result check against the master table. If the defender matches the
+result color or better than the attacker's roll, then the defender
+successfully wards off any mind reading attempts for that turn.
 
 Teleportation
 -------------
