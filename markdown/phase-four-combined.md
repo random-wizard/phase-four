@@ -821,9 +821,9 @@ Nine Lives
 ----------
 
 The character is exceptionally lucky. Once per game session the player
-may reroll any roll they wish. A character with the Nine Lives power has
-an extra pool of Energy every game session determined by the Rank Value
-of the power using the "Nine Lives" table.
+may re-roll any roll they wish. A character with the Nine Lives power
+has an extra pool of Energy every game session determined by the Rank
+Value of the power using the "Nine Lives" table.
 
 NINE LIVES
 
