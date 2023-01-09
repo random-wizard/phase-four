@@ -581,7 +581,7 @@ Fire: The character can manipulate fire to attack, increase or decrease
 the temperate of a flame, create a wall of fire like a force field, etc.
 
 Water: The character can manipulate water to attack, create walls of
-water that act as armour, lift objects, etc
+water that act as armour, lift objects, etc.
 
 Elemental/Energy Effects
 ------------------------
