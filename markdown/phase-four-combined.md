@@ -1317,7 +1317,7 @@ Ranged table.
 Rushing Attack
 --------------
 
-To rush an opponen, a character must meet the following conditions; The
+To rush an opponent, a character must meet the following conditions; The
 opponent can not be in the same sector as the attacker, and the attacker
 must be able to reach the opponent in one turn. Roll 1d20 on the Master
 Table using the attacker's Toughness Rank Value, gaining +1 RS, and
