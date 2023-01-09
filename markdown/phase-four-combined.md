@@ -81,7 +81,7 @@ hold breath or otherwise engaged in physically strenuous tasks.
 
 Reflexes: The measure of a character's speed, balance and grace. Used
 when aiming, throwing, balancing, or otherwise employing physical
-nimbleness,
+nimbleness.
 
 Insight: The measure of the character's insight. Used when attempting to
 sense danger, spot something, recognize a hunch, or otherwise work on
