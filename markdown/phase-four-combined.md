@@ -1278,7 +1278,7 @@ Altering the Dice
 After a roll is made, a character may spend 25 points from Energy Pool
 to shift the result of a single roll one color left or right (from white
 to green, green to yellow, yellow to red, or vice- versa) on the Master
-Table. The roll altered can be the character's roll or someone elses
+Table. The roll altered can be the character's roll or someone else's
 (ally or enemy). Points may be spent to further shift the color. Each
 additional shift costs another 25 points. Multiple characters may spend
 Energy to affect the same die roll.
