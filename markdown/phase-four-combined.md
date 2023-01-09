@@ -44,18 +44,27 @@ ORIGIN
 | 20-20 | Magic         |
 
 Robot: An automaton, an intelligent machine, or a magical construct such
-as a golem. Alien: A visitor from another world or dimension, such as a
-Martian, advanced lizardmen from another galaxy or even beings made of
-pure energy. Skilled Human: A highly skilled human whose powers are
-derived from superior training or specialized devices. Changed Human: A
-normal human who became superhuman through some outside agency, often an
-accident or experiment. Mutated Human: A human with changes to DNA that
-enables superpowers, perhaps from random chance at birth or from
-external factors later in life. Technology: The character's powers are
-the result of computer enhancements, cybernetic implants, advanced
-devices or other gadgets. Magic: The character's powers are derived from
-mystical forces such as a witch's curse, studying ancient scrolls, or
-wearing a magic amulet.
+as a golem.
+
+Alien: A visitor from another world or dimension, such as a Martian,
+advanced lizardmen from another galaxy or even beings made of pure
+energy.
+
+Skilled Human: A highly skilled human whose powers are derived from
+superior training or specialized devices.
+
+Changed Human: A normal human who became superhuman through some outside
+agency, often an accident or experiment.
+
+Mutated Human: A human with changes to DNA that enables superpowers,
+perhaps from random chance at birth or from external factors later in
+life.
+
+Technology: The character's powers are the result of computer
+enhancements, cybernetic implants, advanced devices or other gadgets.
+
+Magic: The character's powers are derived from mystical forces such as a
+witch's curse, studying ancient scrolls, or wearing a magic amulet.
 
 Attributes
 ----------
