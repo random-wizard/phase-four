@@ -473,7 +473,7 @@ attribute Rank Value by an amount equal to the Rank Value of this
 power. The duration of affected primary attribute is determined by the
 Rank Value of the power using the "Attribute Boost" table. At the end of
 this time the affected primary attribute's Rank Value is reduced to
-one-half its normal Rank Value for 1 d6 turns.
+one-half its normal Rank Value for 1d6 turns.
 
 ATTRIBUTE BOOST
 
