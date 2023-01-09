@@ -207,7 +207,7 @@ MASTER TABLE RESULTS
 Interpreting Results The color coded results give only a general
 interpretation of the success of an action. The Gamemaster will have to
 interpret what failure or success entails based upon the situation and
-the\` characters involved. For combat actions, special result tables are
+the characters involved. For combat actions, special result tables are
 given that give more guidance for interpreting results (See Combat,
 Bashing, Slashing, Ranged and Rushing).
 
