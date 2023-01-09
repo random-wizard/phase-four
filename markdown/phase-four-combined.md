@@ -554,7 +554,7 @@ Electrical: The character can manipulate electricity to attack, create
 force fields, lift objects, etc.
 
 Light: The character can manipulate light to attack, blind opponents,
-create force fields, etc
+create force fields, etc.
 
 Magnetic: The character can manipulate ferrous metals to attack, create
 walls of metal that act as armour, lift metallic objects, etc.
