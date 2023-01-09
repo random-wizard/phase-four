@@ -1309,7 +1309,7 @@ Combat Rank Value and compare the result to the Slashing table.
 Ranged Attack
 -------------
 
-Attacks with firearms, bows, thrown objects, and most attacks invovling
+Attacks with firearms, bows, thrown objects, and most attacks involving
 distance are considered a Ranged Attack. Roll 1d20 on the Master Table
 using the attacker's Reflexes Rank Value and compare the result to the
 Ranged table.
