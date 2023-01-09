@@ -287,7 +287,7 @@ Powers
 ------
 
 Powers are what make a character something beyond the average day person
-on the street. Powers are broken down into four catagories; Attack,
+on the street. Powers are broken down into four categories; Attack,
 Defense, Movement, and Utility. Many powers will require the player and
 the gamemaster to flesh out more detail before or during play.
 
