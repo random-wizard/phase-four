@@ -985,15 +985,11 @@ the character or object and can be easily identified.
 Superleap
 ---------
 
-The character can control plants, forcing them to twist and turn and
-using them to wrestle, attack opponents, or block attacks. The character
-performs all of these actions, through a chosen plant, using the Rank
-Value of this power or the character's Combat +1 RS, whichever is
-greater. The character can control a number of plants each turn equal to
-the number of times he can attack in a turn (controlling counts as an
-attack). The character can only control plants within a number of
-sectors determined by the Rank Value of the power using the "Plant
-Control" table.
+The character can perform a leap across a number of sectors determined
+by the Rank Value of the power using the "Superleap" table. If the
+character performs a superleap and wants to make an physical attack they
+can use the Rank Value of this power or the character's Combat +1 RS,
+whichever is greater.
 
 SUPERLEAP
 
