@@ -65,22 +65,33 @@ score which is an indicator of how adept a character is in that
 particular area. Each character will have a set of seven attributes;
 Combat, Strength, Toughness, Reflexes, Insight, Knowledge, Ego
 (sometimes the list of attributes are abbreviated as Combat
-S.T.R.I.K.E.) Combat: The measure of a character's fighting capability.
-Used when doing battle with opponents with melee weapons, hand to hand
-combat, or physical powers. Strength: The measure of a character's
-physical power. Used when lifting heavy objects, determining damage with
-punching or throwing, or otherwise engaged in activities relying on raw
-physical power. Toughness: The measure of a character's stamina and
-robustness. Used when attempting to resist sickness, overcome toxins,
-ignore fatigue, hold breath or otherwise engaged in physically strenuous
-tasks. Reflexes: The measure of a character's speed, balance and grace.
-Used when aiming, throwing, balancing, or otherwise employing physical
-nimbleness, Insight: The measure of the character's insight. Used when
-attempting to sense danger, spot something, recognize a hunch, or
-otherwise work on instinct rather than analyzing a situation. Knowledge:
-The measure of the character's knowledge and reasoning. Used when
-attempting to solve a problem, invent a gadget, decipher a code, or rely
-on logic. Ego: The measure of the character's mental strength. Used when
+S.T.R.I.K.E.)
+
+Combat: The measure of a character's fighting capability. Used when
+doing battle with opponents with melee weapons, hand to hand
+combat, or physical powers.
+
+Strength: The measure of a character's physical power. Used when lifting
+heavy objects, determining damage with punching or throwing, or
+otherwise engaged in activities relying on raw physical power.
+
+Toughness: The measure of a character's stamina and robustness. Used
+when attempting to resist sickness, overcome toxins, ignore fatigue,
+hold breath or otherwise engaged in physically strenuous tasks.
+
+Reflexes: The measure of a character's speed, balance and grace. Used
+when aiming, throwing, balancing, or otherwise employing physical
+nimbleness,
+
+Insight: The measure of the character's insight. Used when attempting to
+sense danger, spot something, recognize a hunch, or otherwise work on
+instinct rather than analyzing a situation.
+
+Knowledge: The measure of the character's knowledge and reasoning. Used
+when attempting to solve a problem, invent a gadget, decipher a code, or
+rely on logic.
+
+Ego: The measure of the character's mental strength. Used when
 attempting to resist hypnosis, sleep, using psychic abilities, or
 otherwise using powers of the mind.
 
