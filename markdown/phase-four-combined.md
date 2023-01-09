@@ -162,9 +162,9 @@ yellow, and the 18 a result of red.
 Master Table
 ------------
 
-The Master Table is the main mechanism for determing success or failure
-for a task. The table is color coded to show differing degrees of
-success and failure. The higher a character's Rank Value, the more
+The Master Table is the main mechanism for determining success or
+failure for a task. The table is color coded to show differing degrees
+of success and failure. The higher a character's Rank Value, the more
 likely that character will succeed. It is the Gamemaster's role to
 adjudicate how difficult or easy something is to accomplish and adjust
 the difficulty by adding or subtracting Rank Step before the player
