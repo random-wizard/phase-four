@@ -218,7 +218,10 @@ MASTER TABLE RESULTS
 | Y   | Yellow | Average Success |
 | R   | Red    | Major Success   |
 
-Interpreting Results The color coded results give only a general
+Interpreting Results
+--------------------
+
+The color coded results give only a general
 interpretation of the success of an action. The Gamemaster will have to
 interpret what failure or success entails based upon the situation and
 the characters involved. For combat actions, special result tables are
