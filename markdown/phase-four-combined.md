@@ -37,7 +37,7 @@ ORIGIN
 |-------|---------------|
 | 01-02 | Robot         |
 | 03-04 | Alien         |
-| 05-06 | Skilled Human |
+| 05-09 | Skilled Human |
 | 10-13 | Changed Human |
 | 14-17 | Mutated Human |
 | 18-19 | Technology    |
