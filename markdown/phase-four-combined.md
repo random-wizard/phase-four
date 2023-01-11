@@ -133,8 +133,8 @@ RANK VALUE
 Attribute Rank Values
 ---------------------
 
-Roll 1d20 once on the Attribute Rank table for each Power to determine
-its Rank Value.
+Roll 1d20 once on the Attribute Rank table for each attribute to
+determine the Rank Value of that attribute.
 
 RANK VALUE
 
