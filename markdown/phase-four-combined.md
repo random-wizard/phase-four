@@ -1395,3 +1395,21 @@ hit The attacker must state the intention to try for this result before
 rolling the attack. If a Nail is not declared before the dice are rolled
 this result is treated as a Hit. The Gamemaster has the final say on the
 effect of a successful Nail attack result.
+
+Credits
+-------
+
+PHASE FOUR is based on the four color system (4CS). The following
+contributed to making 4CS a reality.
+
+Angus Abranson, George C. Alexander, James Bell, Johnathan L. Bingham,
+David Boddie, Michael Bradford, Timothy S. Brannan, Lou Goncey,
+Christopher Helton, Nathan Herrold, Fred Hicks, Keith Higdon,
+Gregor Hutton, Neal H. Jones, Tim Kirk, Rod Landreth, Jay Libby,
+Art McMahon, Jason R. Morgan, Brain Nisbet, Daniel Proctor,
+Jeff Rients, Walt Robillard, Gerry Saracco, Dave Schaefer,
+Richard Scott, Jeremy L. Steffen, Law C. Stinson, Benjamin R. Terry,
+Niniri Theriault, Jonathan M. Thompson, Pat Tracy, Grady Victory,
+Brent Wolke,
+
+And several others who have chosen to remain anonymous.
