@@ -843,6 +843,14 @@ point the target rolls 1d20 on the Master Table using the Rank Value of
 the target character's Ego. A result of green or greater is needed to
 break free of the mind control.
 
+Mind Shield
+-----------
+
+The character has exceptionally powerful will and can resist any sort of
+mind control or mental attack. The character can resist any sort of
+mental attack by rolling 1d20 and consulting the Master Table. A result
+of green or greater means the attack is nullified or reduced.
+
 Nine Lives
 ----------
 
