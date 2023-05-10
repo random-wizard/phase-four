@@ -320,11 +320,9 @@ the gamemaster to flesh out more detail before or during play.
 Determine Power Number
 ----------------------
 
-To determine which types of power a character possesses, roll 1d20 on
-the "Power Type" table. After all of the power types have been
-determined, if the player does not have at least one attack power type,
-they can change one of their types to an attack power type if they so
-choose.
+To determine how many powers a character possesses, roll 1d20 on the
+"Power Number" table. If the character ends up with 2 powers, then they
+will gain 1 extra skill.
 
 POWER NUMBER
 
