@@ -154,10 +154,11 @@ Secondary Attributes
 
 There are a set of attributes which are derived from the primary
 attributes instead of rolled for during character creation. These
-attributes are known as secondary attributes. Health Pool: Represents
-the amount of damage a character can take before they are rendered
-unconscious or inert. Health is determined by adding up the Rank Value
-of Combat, Strength, Toughness, and Reflexes.
+attributes are known as secondary attributes.
+
+Health Pool: Represents the amount of damage a character can take before
+they are rendered unconscious or inert. Health is determined by adding
+up the Rank Value of Combat, Strength, Toughness, and Reflexes.
 
 Energy Pool: Represents the amount of cosmic energy and innate luck the
 character possesses. Energy is determined by adding up the Rank Value of
